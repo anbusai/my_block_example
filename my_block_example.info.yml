@@ -1,0 +1,7 @@
+name: my_block_example
+type: module
+description: Defines a custom block.
+core: 8.x
+package: WebWash
+dependencies:
+  - block
